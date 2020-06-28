@@ -4,20 +4,22 @@
 
 ## 关于项目
 
-技术栈：vuecli(包含vuex，vue-router) + vantUI
+* 技术栈：vuecli(包含vuex，vue-router) + vantUI
+* 本地proxy代理
+* 多环境切换 
 
-常用命令：
+### 常用命令：
 
+* 安装
 ```
 yarn install
 ```
-vue-router
-### 本地开发环境
+* 本地开发环境
 ```
 yarn serve
 ```
 
-### 编译
+* 编译
 ```
 yarn build:test  // 测试
 yarn build:pre  // 预发布
