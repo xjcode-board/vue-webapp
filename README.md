@@ -1,10 +1,10 @@
-# vuecli-wap
+# vue-webapp
 
     基于vuecli基础模板的移动端项目
 
 ## 关于项目
 
-* 技术栈：vuecli(包含vuex，vue-router) + vantUI
+* 技术栈：vuecli(包含vuex，vue-router) + vant
 * 本地proxy代理
 * 多环境切换 
 
